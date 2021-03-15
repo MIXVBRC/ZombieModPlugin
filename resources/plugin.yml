@@ -1,0 +1,10 @@
+name: ZombieMod
+main: ru.mixvbrc.zombiemod.Mine
+version: 0.1
+commands:
+  setday:
+    description: Set start of day
+    usage: /setday
+  setnight:
+    description: Set start of night
+    usage: /setnight
